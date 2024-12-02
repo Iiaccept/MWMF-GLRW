@@ -19,6 +19,6 @@ scikit-learn == 1.2.0
 1.GKGIP.py\
 2.LKGIP.py\
 3.Similarity kernel fusion\
-4.Model\
+4.Model
 
 
